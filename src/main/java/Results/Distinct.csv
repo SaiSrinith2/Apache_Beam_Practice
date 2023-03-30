@@ -1,0 +1,6 @@
+Kali,Erath,1,,,
+Krishna,Mathura,129,,,
+Ram,Bharath,"11,000",,,
+Name,Kingdom,Years,,,
+,,,,,
+PCollection<String> output1= output.apply(Distinct.create());,,,,,
