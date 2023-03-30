@@ -1,501 +1,268 @@
-Even
-Aldous
-Huxley
-once
-related,
-“The
-Bhagavad
-Gita
-is
-the
-most
-systematic
-statement
-of
-spiritual
-evolution
-of
-endowing
-value
-of
-mankind.
-The
-Gita
-is
-one
-of
-the
-clearest
-and
-most
-comprehensive
-summaries
-of
-the
-spiritual
-thoughts
-ever
-to
-have
-been
-made.
-Annie
-Besant
-brings
-up
-another
-idea,
-that
-even
-westerners
-who
-are
-now
-drawn
-to
-the
-rare
-teachings
-of
-the
-Vedic
-philosophy
-are
-experiencing
-an
-attraction
-that
-was
-attained
-in
-a
-previous
-life.
-In
-India:
-Essays
-and
-Lectures
-she
-says:
-“Among
-the
-priceless
-teachings
-that
-may
-be
-found
-in
-the
-great
-Indian
-epic
-Mahabharata,
-there
-is
-none
-so
-rare
-and
-priceless
-as
-the
-Gita…
-This
-is
-the
-India
-of
-which
-I
-speak–the
-India
-which,
-as
-I
-said,
-is
-to
-me
-the
-Holy
-Land.
-For
-those
-who,
-though
-born
-for
-this
-life
-in
-a
-Western
-land,
-and
-clad
-in
-a
-Western
-body,
-can
-yet
-look
-back
-to
-earlier
-incarnations
-in
-which
-they
-drank
-the
-milk
-of
-spiritual
-wisdom
-from
-the
-breast
-of
-their
-true
-mother–they
-must
-feel
-ever
-the
-magic
-of
-her
-immemorial
-past;
-must
-dwell
-ever
-under
-the
-spell
-of
-her
-deathless
-fascination;
-for
-they
-are
-bound
-to
-India
-by
-all
-the
-sacred
-memories
-of
-their
-past
-and
-with
-her,
-too,
-are
-bound
-up
-all
-the
-radiant
-hopes
-of
-their
-future,
-a
-future
-which
-they
-know
-they
-will
-share
-with
-her
-who
-is
-their
-true
-mother
-in
-the
-soul-life.
-He
-also
-said
-in
-The
-Writings
-of
-Henry
-David
-Thoreau,
-“In
-the
-morning
-I
-bathe
-my
-intellect
-in
-the
-stupendous
-and
-cosmogonal
-philosophy
-of
-the
-Bhagavad-gita,
-since
-whose
-composition
-years
-of
-the
-gods
-have
-elapsed,
-and
-in
-comparison
-with
-which
-our
-modern
-world
-and
-its
-literature
-seem
-puny
-and
-trivial;
-and
-I
-doubt
-if
-that
-philosophy
-is
-not
-to
-be
-referred
-to
-a
-previous
-state
-of
-existence,
-so
-remote
-is
-its
-sublimity
-from
-our
-conceptions.”
-Much
-of
-the
-reason
-for
-the
-qualities
-of
-ancient
-India
-and
-its
-great
-sages
-are
-held
-and
-can
-be
-seen
-by
-the
-greatness
-of
-the
-Vedic
-texts.
-This
-has
-been
-recognized
-by
-numerous
-scholars
-over
-the
-years.
-Here
-are
-a
-few,
-such
-as
-Professor
-Paul
-William
-Roberts
-in
-Empire
-of
-the
-Soul:
-Some
-Journeys
-in
-India:
-“The
-Vedas
-still
-represent
-eternal
-truth
-in
-the
-purest
-form
-ever
-written.”
-Of
-course,
-we
-know
-that
-Henry
-David
-Thoreau
-greatly
-admired
-the
-Vedic
-literature,
-as
-mentioned
-in
-Quotes
-of
-Henry
-David
-Thoreau:
-“What
-extracts
-from
-the
-Vedas
-I
-have
-read
-fall
-on
-me
-like
-the
-light
-of
-a
-higher
-and
-purer
-luminary,
-which
-describes
-a
-loftier
-course
-through
-a
-purer
-stratum.
-It
-rises
-on
-me
-like
-the
-full
-moon
-after
-the
-stars
-have
-come
-out,
-wading
-through
-some
-far
-stratum
-in
-the
-sky.”
-Another
-famous
-quote
-by
-Ralph
-Waldo
-Emerson
-is,
-“I
-owed
-a
-magnificent
-day
-to
-the
-Bhagavad-gita.
-It
-was
-as
-if
-an
-empire
-spoke
-to
-us,
-nothing
-small
-or
-unworthy,
-but
-large,
-serene,
-consistent,
-the
-voice
-of
-an
-old
-intelligence
-which
-in
-another
-age
-and
-climate
-had
-pondered
-and
-thus
-disposed
-of
-the
-same
-questions
-which
-exercise
-us.”
+Much: 1
+spoke: 1
+Western: 2
+Ralph: 1
+been: 2
+empire: 1
+they: 5
+mankind: 1
+state: 1
+drawn: 1
+intellect: 1
+numerous: 1
+reason: 1
+an: 3
+whose: 1
+purer: 2
+Land: 1
+ancient: 1
+milk: 1
+quote: 1
+as: 5
+Soul: 1
+past: 2
+Mahabharata: 1
+thus: 1
+must: 2
+Waldo: 1
+extracts: 1
+greatly: 1
+be: 3
+Aldous: 1
+Here: 1
+teachings: 2
+seem: 1
+pondered: 1
+old: 1
+morning: 1
+I: 6
+The: 4
+remote: 1
+Emerson: 1
+composition: 1
+wading: 1
+bathe: 1
+clad: 1
+after: 1
+though: 1
+one: 1
+a: 10
+another: 2
+such: 1
+so: 2
+the: 38
+attained: 1
+to: 9
+texts: 1
+under: 1
+describes: 1
+represent: 1
+are: 6
+but: 1
+same: 1
+serene: 1
+dwell: 1
+mother: 2
+seen: 1
+Vedas: 2
+qualities: 1
+through: 2
+rare: 2
+up: 2
+This: 2
+stratum: 2
+had: 1
+us: 2
+brings: 1
+those: 1
+purest: 1
+puny: 1
+which: 8
+this: 1
+For: 1
+questions: 1
+Another: 1
+its: 3
+trivial: 1
+William: 1
+doubt: 1
+once: 1
+owed: 1
+greatness: 1
+scholars: 1
+know: 2
+she: 1
+rises: 1
+higher: 1
+by: 4
+sages: 1
+for: 3
+some: 1
+look: 1
+Gita: 3
+has: 1
+What: 1
+wisdom: 1
+full: 1
+idea: 1
+not: 1
+Holy: 1
+disposed: 1
+Bhagavad: 3
+back: 1
+over: 1
+Henry: 3
+previous: 2
+now: 1
+statement: 1
+thoughts: 1
+stars: 1
+was: 2
+westerners: 1
+Huxley: 1
+evolution: 1
+life: 3
+truth: 1
+there: 1
+Writings: 1
+related: 1
+yet: 1
+age: 1
+gita: 2
+Professor: 1
+summaries: 1
+held: 1
+referred: 1
+cosmogonal: 1
+clearest: 1
+we: 1
+experiencing: 1
+years: 2
+Even: 1
+her: 4
+if: 2
+none: 1
+sky: 1
+He: 1
+still: 1
+admired: 1
+drank: 1
+Indian: 1
+nothing: 1
+bound: 2
+with: 3
+comprehensive: 1
+philosophy: 3
+in: 15
+India: 6
+intelligence: 1
+fascination: 1
+moon: 1
+is: 9
+made: 1
+far: 1
+form: 1
+Some: 1
+large: 1
+come: 1
+endowing: 1
+gods: 1
+immemorial: 1
+even: 1
+In: 2
+Empire: 1
+It: 2
+our: 2
+exercise: 1
+epic: 1
+sublimity: 1
+out: 1
+world: 1
+modern: 1
+written: 1
+Quotes: 1
+Besant: 1
+memories: 1
+have: 4
+share: 1
+course: 2
+hopes: 1
+Among: 1
+priceless: 2
+Annie: 1
+sacred: 1
+literature: 2
+speak: 1
+ever: 4
+famous: 1
+consistent: 1
+incarnations: 1
+systematic: 1
+eternal: 1
+too: 1
+born: 1
+may: 1
+voice: 1
+magic: 1
+small: 1
+feel: 1
+body: 1
+climate: 1
+existence: 1
+earlier: 1
+from: 3
+stupendous: 1
+light: 1
+conceptions: 1
+future: 2
+day: 1
+spell: 1
+deathless: 1
+few: 1
+comparison: 1
+like: 2
+Vedic: 3
+me: 3
+luminary: 1
+most: 2
+David: 3
+who: 3
+true: 2
+soul: 1
+their: 4
+unworthy: 1
+since: 1
+and: 15
+all: 2
+Roberts: 1
+radiant: 1
+Thoreau: 3
+read: 1
+Journeys: 1
+said: 2
+of: 25
+can: 2
+my: 1
+mentioned: 1
+elapsed: 1
+also: 1
+on: 2
+that: 5
+or: 1
+Of: 1
+loftier: 1
+spiritual: 3
+Essays: 1
+Lectures: 1
+attraction: 1
+breast: 1
+value: 1
+Paul: 1
+land: 1
+found: 1
+says: 1
+will: 1
+magnificent: 1
+great: 2
+fall: 1
+recognized: 1
